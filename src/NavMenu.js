@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import {
     Link, useLocation,
 } from "react-router-dom";
-import MenuIcon from './images/menu.svg';
 import './NavMenu.scss';
 
 export default function NavMenu({ }) {
@@ -12,7 +11,6 @@ export default function NavMenu({ }) {
         <div className="nav-menu">
             <div className={`header`}>
                 <button className="mobile" onClick={() => openMenu(!isOpen)}>
-                    <img src={MenuIcon} alt=""/>
                 </button>
                 <h1>Dora Do</h1>
                 <h1>2020</h1>
