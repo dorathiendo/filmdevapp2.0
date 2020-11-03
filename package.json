@@ -2,7 +2,7 @@
   "name": "portfolio2020",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dorathiendo.github.io/portfolio2020/",
+  "homepage": "https://dorathiendo.github.io/filmdevapp2.0/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
